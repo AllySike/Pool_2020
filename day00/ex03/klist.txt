@@ -1,0 +1,5 @@
+Credentials cache: API:4DB3F677-3C27-473D-AE86-2CECDC6FA876
+        Principal: kgale@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 10 14:19:36 2020  Aug 11 00:19:36 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
